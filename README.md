@@ -28,6 +28,10 @@ Estatísticas do GitHub
   
 
 ---
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 "Ser desenvolvedora não é só escrever código, é criar soluções com o coração e a cabeça!" – Bia
 
